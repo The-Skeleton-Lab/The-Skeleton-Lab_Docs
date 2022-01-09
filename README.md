@@ -4,7 +4,6 @@ description: Introduction
 
 # The Skeleton Lab
 
-Just trying to learn this gitbook by myslef
+Testing gifz
 
-![](<.gitbook/assets/square (1).jpg>)
-
+![](.gitbook/assets/7c177769916383.5b940de0535f9.gif)
