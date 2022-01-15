@@ -1,3 +1,3 @@
 # Table of contents
 
-* [The Skeleton Lab](README.md)
+* [Rigging Introduction](README.md)
