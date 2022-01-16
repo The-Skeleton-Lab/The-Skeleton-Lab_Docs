@@ -1,9 +1,6 @@
 # Joint Basics
 
----
-description: Introduction to Joints
----
-
+## Introduction to Joints
 
 ## What are Joints
 
@@ -15,11 +12,4 @@ Anything and everything with some kind of motion in cgi can be a part of rigging
 
 Also called as Skeletal Animation
 
-asfasfhasgfasdddddddddddddddddddddddddddddddasd.
-asgas
-gasfhas
-asgasgs
-asgasasg
-gasfhasgsa
-asgasasggas
-gasfhasgsaags
+asfasfhasgfasdddddddddddddddddddddddddddddddasd. asgas gasfhas asgasgs asgasasg gasfhasgsa asgasasggas gasfhasgsaags
