@@ -2,5 +2,5 @@
 
 ## 💀 Rigging Introduction
 
-* [Rigging Introduction](rigging-introduction/readme/intro.md)
+* [Rigging Introduction](rigging-introduction/tst.md)
 * [Joint Basics](rigging-introduction/joint-basics.md)
