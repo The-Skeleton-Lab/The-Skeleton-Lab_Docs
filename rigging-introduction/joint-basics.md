@@ -1,21 +1,25 @@
 # Joint Basics
 
-Siddarth Mehraa
-
-asdasffafafaasfafs
-
-afafsaffsssssssssssssssssss
-
-afssffffffff
+---
+description: Introduction to Joints
+---
 
 
+## What are Joints
 
+Skeletal animation or rigging is a technique in computer animation in which a character (or other articulated object) is represented in two parts: a surface representation used to draw the character (called the mesh or skin) and a hierarchical set of interconnected parts (called bones, and collectively forming the skeleton or rig), a virtual armature used to animate (pose and keyframe) the mesh.\[1] While this technique is often used to animate humans and other organic figures, it only serves to make the animation process more intuitive, and the same technique can be used to control the deformation of any object—such as a door, a spoon, a building, or a galaxy. When the animated object is more general than, for example, a humanoid character, the set of "bones" may not be hierarchical or interconnected, but simply represent a higher-level description of the motion of the part of mesh it is influencing.
 
+The technique was introduced in 1988 by Nadia Magnenat Thalmann, Richard Laperrière, and Daniel Thalmann.\[2] This technique is used in virtually all animation systems where simplified user interfaces allows animators to control often complex algorithms and a huge amount of geometry; most notably through inverse kinematics and other "goal-oriented" techniques. In principle, however, the intention of the technique is never to imitate real anatomy or physical processes, but only to control the deformation of the mesh data.
 
-## Yooo
+Anything and everything with some kind of motion in cgi can be a part of rigging!
 
+Also called as Skeletal Animation
 
-
-* asffas
-* asfffas
-* afsafsa
+asfasfhasgfasdddddddddddddddddddddddddddddddasd.
+asgas
+gasfhas
+asgasgs
+asgasasg
+gasfhasgsa
+asgasasggas
+gasfhasgsaags
