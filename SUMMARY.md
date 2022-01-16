@@ -3,7 +3,7 @@
 ## 💀 Rigging Introduction
 
 * [Rigging Introduction](README.md)
-* [Joint Basics](rigging-introduction/joint-basics.md)
+  * [Joint Basics](rigging-introduction/tst/joint-basics.md)
 
 ## Joint Basics
 
