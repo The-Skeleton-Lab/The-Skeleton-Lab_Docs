@@ -1,8 +1,6 @@
 # Rigging Introduction
 
-## Rigging Introduction
-
-### What is Rigging
+## What is Rigging
 
 Skeletal animation or rigging is a technique in computer animation in which a character (or other articulated object) is represented in two parts: a surface representation used to draw the character (called the mesh or skin) and a hierarchical set of interconnected parts (called bones, and collectively forming the skeleton or rig), a virtual armature used to animate (pose and keyframe) the mesh.\[1] While this technique is often used to animate humans and other organic figures, it only serves to make the animation process more intuitive, and the same technique can be used to control the deformation of any object—such as a door, a spoon, a building, or a galaxy. When the animated object is more general than, for example, a humanoid character, the set of "bones" may not be hierarchical or interconnected, but simply represent a higher-level description of the motion of the part of mesh it is influencing.
 
@@ -24,10 +22,10 @@ Weight painting is an integral part of the rigging process. The computer is ofte
 
 Digital rigs make movement possible
 
-**What is a rig?**
+##**What is a rig?**
 
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette. A good rig has just the right amount of flexibility. Without the right controls, the animators can’t create the poses they need. Too much flexibility makes posing the model too time consuming.
 
-What does a rigger do?
+##What does a rigger do?
 
 Riggers start with a virtual 3D model for a character. They study how a character needs to move based on the story. For example, Randall in Monsters, Inc. moves like a chameleon, but he also walks on two legs. Riggers break down those motions into individual elements and create the hundreds of control points that animators will use to create pose
