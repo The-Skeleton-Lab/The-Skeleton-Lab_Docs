@@ -6,8 +6,7 @@ description: Introduction to Joints
 
 ## What are Joints
 
-balsmf;las;f
-asfasfhasgf
+asfasfhasgfasdddddddddddddddddddddddddddddddasd.
 asgas
 gasfhas
 asgasgs
