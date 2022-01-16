@@ -2,7 +2,5 @@
 
 ## 💀 Rigging Introduction
 
-* [Rigging Introduction](<Introduction to Rigging_Page_1.md>)
-* [Joint Basics](<Joints Introduction.txt>)
-
-
+* [Rigging Introduction](README.md)
+* [Joint Basics](rigging-introduction/joint-basics.md)
