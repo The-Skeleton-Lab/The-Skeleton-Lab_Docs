@@ -28,7 +28,7 @@ Weight painting is an integral part of the rigging process. The computer is ofte
 
 Digital rigs make movement possible
 
-What is a rig?
+**What is a rig?**
 
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette. A good rig has just the right amount of flexibility. Without the right controls, the animators can’t create the poses they need. Too much flexibility makes posing the model too time consuming.
 

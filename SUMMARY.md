@@ -2,6 +2,6 @@
 
 ## 💀 Rigging Introduction
 
-* [Rigging Introduction](<README (1).md>)
+* [Rigging Introduction](<FirstPage.md>)
 
 
